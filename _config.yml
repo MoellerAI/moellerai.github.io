@@ -15,10 +15,9 @@ author: Mads Møller
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Machine Learning:
+    - Info: "https://beautifuljekyll.com"
+    - Linear Regression: "https://www.markdowntutorial.com/"
  
 # --- Logo --- #
 
