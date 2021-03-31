@@ -13,4 +13,4 @@ The mathematics in machine learning mostly rely on linear algebra and probabilit
   
 | Algorithm | HTML | PDF |
 | :------ |:--- | :--- |
-| 1. Linear Regression | [HTML](https://moellerai.github.io/Linear_Regression.html) | [PDF](./moellerai.github.io/Linear_Regression.pdf) |
+| 1. Linear Regression | [HTML](https://moellerai.github.io/Linear_Regression.html) | [PDF](../Linear_Regression.pdf) |
