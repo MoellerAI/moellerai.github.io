@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Learning Article Series
+title: Machine Learning
 subtitle: Unlock the machine learning forest
 comments: true
 ---
