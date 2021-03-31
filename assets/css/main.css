@@ -54,7 +54,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #890000;
+  color: #0085A1;
 }
 blockquote {
   color: #808080;
@@ -775,8 +775,8 @@ footer .footer-custom-content {
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
   color: #FFF;
-  background: #890000;
-  border: 1px solid #890000;
+  background: #0085A1;
+  border: 1px solid #0085A1;
 }
 
 /* --- Tables --- */
