@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Machine Learning:
     - Info: "https://beautifuljekyll.com"
-    - Linear Regression: "https://www.markdowntutorial.com/"
+    - Linear Regression: "Linear_Regression"
  
 # --- Logo --- #
 
