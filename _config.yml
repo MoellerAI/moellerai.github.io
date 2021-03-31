@@ -18,6 +18,12 @@ navbar-links:
   Machine Learning:
     - Info: "https://beautifuljekyll.com"
     - Linear Regression: "Linear_Regression.pdf"
+  Deep Learning:
+    - Neural Networks: ""
+  Reinforcement Learning:
+    - Q-Learning: ""
+  Python:
+    - OOP: ""
  
 # --- Logo --- #
 
