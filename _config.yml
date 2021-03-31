@@ -16,7 +16,7 @@ author: Mads Møller
 navbar-links:
   About Me: "aboutme"
   Machine Learning:
-    - Info: "_posts/2021-03-31-Machine-Learning"
+    - Info: "_posts/2021-03-31-Machine-Learning.md"
     - Linear Regression: "Linear_Regression.html"
   Deep Learning:
     - Neural Networks: ""
