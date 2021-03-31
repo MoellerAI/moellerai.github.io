@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Machine Learning:
     - Info: "https://moellerai.github.io/2021-03-31-Machine-Learning/"
-    - Linear Regression: "Linear_Regression.html"
+    - Linear Regression: "Linear_Regression.pdf"
   Deep Learning:
     - Neural Networks: ""
   Python:
