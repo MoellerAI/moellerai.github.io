@@ -11,6 +11,9 @@ comments: true
 
 The mathematics in machine learning mostly rely on linear algebra and probability theory. Therefore, it is highly recommended to have some basic knowledge on these topics before trying to understand the different machine learning algorithms. The programming language used in this series is Python it is recommended to be familiar with basic Python programming. 
 
+FORMAT: 1A
+HOST: http://www.google.com
+
 <center>
 | Algorithm | HTML | PDF |
 | :------ |:--- | :--- |
