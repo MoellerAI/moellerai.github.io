@@ -13,4 +13,5 @@ What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="da_DK" data-type="vertical" data-theme="light" data-vanity="madsmoeller1"><a class="LI-simple-link" href='https://dk.linkedin.com/in/madsmoeller1?trk=profile-badge'>Mads Møller</a></div>
