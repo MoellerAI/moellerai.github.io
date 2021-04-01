@@ -9,7 +9,7 @@ subtitle: Why you'd want to go on a date with me
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Hi, my name is <strong>Mads Møller</strong>, I am a student at Copenhagen Business School where i study Business Economics and Mathematics. I love the fields within AI, specifically fields within machine learning.
+Hi, my name is <strong>Mads Møller</strong>, I am a student at Copenhagen Business School where i study Business Economics and Mathematics. I love the fields within AI, specifically machine learning.
 </p>
 
 <center>
