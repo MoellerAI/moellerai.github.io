@@ -12,6 +12,7 @@ My name is Inigo Montoya. I have the following qualities:
 What else do you need?
 
 ### My story
-
+<center>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="da_DK" data-type="vertical" data-theme="light" data-vanity="madsmoeller1"><a class="LI-simple-link" href='https://dk.linkedin.com/in/madsmoeller1?trk=profile-badge'>Mads Møller</a></div>
+</center>
