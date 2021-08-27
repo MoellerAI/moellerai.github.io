@@ -14,7 +14,7 @@ Hi, my name is <strong>Mads Møller</strong>, I am a student assistant in the pr
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my <strong>Bachelor of Science</strong> degree in Business Economics & Mathematics from Copenhagen Business School, Denmark. I am currently pursuing a <strong>Master of Science in Data Science</strong> degree from the IT University, Denmark.
+I obtained my <strong>Bachelor of Science</strong> degree in Mathematics & Business Economics from Copenhagen Business School, Denmark. I am currently pursuing a <strong>Master of Science in Mathematics & Business Administration</strong> degree from Copenhagen Business School as well.
 </p>
 
 <p class="about-text">
