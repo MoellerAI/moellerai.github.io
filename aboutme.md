@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About me
 subtitle: I love the fields within AI, specifically machine learning.
 ---
