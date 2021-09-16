@@ -19,6 +19,7 @@ navbar-links:
     - Info: "https://moellerai.github.io/2021-03-31-Machine-Learning/"
     - Linear Regression: "Linear_Regression.html"
     - Logistic Regression: "Logistic_Regression.html"
+    - Support Vector Machines: "SVM.html"
   Deep Learning:
     - Neural Networks: ""
   Python:
