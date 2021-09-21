@@ -19,5 +19,5 @@ I obtained my <strong>Bachelor of Science</strong> degree in Mathematics & Busin
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am a machine learning and Python enthusiast. I love to see the posibilities of applied AI. I can use Python, C++, R and VBA.
+I am a machine learning and Python enthusiast. I love to see the posibilities of applied AI. I can use Python, C++, SQL, R and VBA.
 </p>
