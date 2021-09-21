@@ -20,7 +20,7 @@ navbar-links:
     - Linear Regression: "Linear_Regression.html"
     - Logistic Regression: "Logistic_Regression.html"
     - Support Vector Machines: "SVM.html"
-    - Decision Trees: "Decision Trees.html"
+    - Decision Trees: "Decision_Trees.html"
   Deep Learning:
     - Neural Networks: ""
   Python:
