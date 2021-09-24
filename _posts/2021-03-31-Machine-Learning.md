@@ -17,3 +17,4 @@ The mathematics in machine learning mostly rely on linear algebra and probabilit
 | 2. Logistic Regression | [HTML](https://moellerai.github.io/Logistic_Regression.html) | [PDF](../Logistic_Regression.pdf) |
 | 3. Support Vector Machines | [HTML](https://moellerai.github.io/SVM.html) | [PDF](../SVM.pdf) |
 | 4. Decision Trees | [HTML](https://moellerai.github.io/Decision_Trees.html) | [PDF](../Decision_Trees.pdf) |
+| 5. K-Nearest Neighbors (KNN) | [HTML](https://moellerai.github.io/Nearest_Neighbor.html) | [PDF](../Nearest_Neighbor.pdf) |
