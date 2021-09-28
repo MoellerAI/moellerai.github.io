@@ -22,7 +22,7 @@ navbar-links:
     - Support Vector Machines: "SVM.html"
     - Decision Trees: "Decision_Trees.html"
     - K-Nearest Neighbors: "Nearest_Neighbor.html"
-    - Hierarchical_Clustering: "Hierarchical_Clustering.html"
+    - Hierarchical Clustering: "Hierarchical_Clustering.html"
   Deep Learning:
     - Neural Networks: ""
   Python:
