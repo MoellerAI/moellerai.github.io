@@ -23,6 +23,7 @@ navbar-links:
     - Decision Trees: "Decision_Trees.html"
     - K-Nearest Neighbors: "Nearest_Neighbor.html"
     - Hierarchical Clustering: "Hierarchical_Clustering.html"
+    - Partitioning Clustering: "Partitioning_Clustering_.html"
   Deep Learning:
     - Neural Networks: ""
   Python:
