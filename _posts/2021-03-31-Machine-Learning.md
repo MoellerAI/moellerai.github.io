@@ -19,3 +19,4 @@ The mathematics in machine learning mostly rely on linear algebra and probabilit
 | 4. Decision Trees | [HTML](https://moellerai.github.io/Decision_Trees.html) | [PDF](../Decision_Trees.pdf) |
 | 5. K-Nearest Neighbors (KNN) | [HTML](https://moellerai.github.io/Nearest_Neighbor.html) | [PDF](../Nearest_Neighbor.pdf) |
 | 6. Hierarchical Clustering | [HTML](https://moellerai.github.io/Hierarchical_Clustering.html) | [PDF](../Hierarchical_Clustering.pdf) |
+| 7. Partitioning Clustering | [HTML](https://moellerai.github.io/Partitioning_Clustering_.html) | [PDF](../Partitioning_Clustering_.pdf) |
